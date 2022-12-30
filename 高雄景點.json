@@ -1,0 +1,2626 @@
+[
+  {
+    "Name": "衛武迷迷村(苓雅國際壁畫區)",
+    "Img": "https://khh.travel/content/images/Attractions/18889/640x480_attractions-image-f2roa_qyiusumbsdvxdnrq.png",
+    "Point": [
+      22.62716,
+      120.34393
+    ]
+  },
+  {
+    "Name": "愛河之心",
+    "Img": "https://khh.travel/content/images/Attractions/18372/640x480_attractions-image-bae0klru_u-qfd7nguvujw.jpg",
+    "Point": [
+      22.65132,
+      120.30388
+    ]
+  },
+  {
+    "Name": "蓮池潭風景區",
+    "Img": "https://khh.travel/content/images/Attractions/19849/640x480_attractions-image-g0qs4l9vqu20shcpxhp0cw.jpg",
+    "Point": [
+      22.67873,
+      120.2969
+    ]
+  },
+  {
+    "Name": "棧貳庫",
+    "Img": "",
+    "Point": [
+      22.61899,
+      120.2771
+    ]
+  },
+  {
+    "Name": "旗津海水浴場",
+    "Img": "https://khh.travel/content/images/Attractions/37539/640x480_attractions-image-sn5m6zydauesvf_rvtpipg.jpg",
+    "Point": [
+      22.61018,
+      120.2669
+    ]
+  },
+  {
+    "Name": "駁二藝術特區",
+    "Img": "https://khh.travel/content/images/Attractions/37670/640x480_attractions-image-kklpdqdwkkm9gq6f7d688w.jpg",
+    "Point": [
+      22.62001,
+      120.2816
+    ]
+  },
+  {
+    "Name": "寶來花賞溫泉公園",
+    "Img": "https://khh.travel/content/images/Attractions/37630/640x480_attractions-image-4kzkbqh_8kkd5flhnchpbw.jpg",
+    "Point": [
+      23.10685,
+      120.70274
+    ]
+  },
+  {
+    "Name": "崗山之眼",
+    "Img": "https://khh.travel/content/images/Attractions/18315/640x480_attractions-image-sbna7gmxzku-rx5et7brjw.jpg",
+    "Point": [
+      22.81199,
+      120.33432
+    ]
+  },
+  {
+    "Name": "高雄巨蛋",
+    "Img": "",
+    "Point": [
+      22.66915,
+      120.30142
+    ]
+  },
+  {
+    "Name": "壽山動物園",
+    "Img": "https://khh.travel/content/images/Attractions/20224/640x480_attractions-image--jnpkpqwcegpzakrwc16bw.jpg",
+    "Point": [
+      22.63443,
+      120.27519
+    ]
+  },
+  {
+    "Name": "清水宮",
+    "Img": "https://khh.travel/image/8469/640x480",
+    "Point": [
+      22.68408,
+      120.29963
+    ]
+  },
+  {
+    "Name": "天文宮",
+    "Img": "https://khh.travel/image/1821/640x480",
+    "Point": [
+      22.81291,
+      120.24022
+    ]
+  },
+  {
+    "Name": "旗津彩虹教堂",
+    "Img": "https://khh.travel/content/images/Attractions/18495/640x480_attractions-image-krscupuu1kufxdwifq3lyq.jpg",
+    "Point": [
+      22.60234,
+      120.27345
+    ]
+  },
+  {
+    "Name": "城市光廊J Cafe",
+    "Img": "https://khh.travel/image/1730/640x480",
+    "Point": [
+      22.62332,
+      120.29916
+    ]
+  },
+  {
+    "Name": "衛武營國家藝術文化中心",
+    "Img": "https://khh.travel/image/1972/640x480",
+    "Point": [
+      22.623,
+      120.34244
+    ]
+  },
+  {
+    "Name": "愛河啤酒花園",
+    "Img": "https://khh.travel/content/images/Attractions/37481/640x480_attractions-image-kcxye1aizeojgcagapjcta.jpg",
+    "Point": [
+      22.62269,
+      120.28912
+    ]
+  },
+  {
+    "Name": "寶山二集團櫻花公園(38甲櫻花公園)",
+    "Img": "https://khh.travel/content/images/Attractions/34506/640x480_attractions-image-ppxpxfeykkg_c0nw5nklcw.jpg",
+    "Point": [
+      23.03777,
+      120.70744
+    ]
+  },
+  {
+    "Name": "旗山碾米廠",
+    "Img": "https://khh.travel/content/images/Attractions/18429/640x480_attractions-image-q1qb95t1k0ew0sbw1zekow.jpg",
+    "Point": [
+      22.88357,
+      120.48137
+    ]
+  },
+  {
+    "Name": "潮旅梓官（蚵仔寮漁港）",
+    "Img": "https://khh.travel/content/images/Attractions/20397/640x480_attractions-image-kdxpvjqzwewisunxyad_9w.jpg",
+    "Point": [
+      22.72687,
+      120.25446
+    ]
+  },
+  {
+    "Name": "旗山武德殿",
+    "Img": "https://khh.travel/content/images/Attractions/18444/640x480_attractions-image-kbktk0pgg0kquok1zuen-w.jpg",
+    "Point": [
+      22.88798,
+      120.48018
+    ]
+  },
+  {
+    "Name": "永浴愛河",
+    "Img": "https://khh.travel/image/1729/640x480",
+    "Point": [
+      22.62426,
+      120.29013
+    ]
+  },
+  {
+    "Name": "高雄科學園區-尋找公共藝術",
+    "Img": "https://khh.travel/content/images/Attractions/1749/640x480_image022_8564.jpg",
+    "Point": [
+      22.83081,
+      120.25604
+    ]
+  },
+  {
+    "Name": "新威景觀大橋",
+    "Img": "https://khh.travel/content/images/Attractions/1763/640x480_image003_8626.jpg",
+    "Point": [
+      22.89148,
+      120.63812
+    ]
+  },
+  {
+    "Name": "桃源區原住民文化館",
+    "Img": "https://khh.travel/content/images/Attractions/22197/640x480_attractions-image-kq94lvgb60y-w9wkybcfvq.jpg",
+    "Point": [
+      23.15922,
+      120.76627
+    ]
+  },
+  {
+    "Name": "拉阿魯哇文化祭場",
+    "Img": "https://khh.travel/content/images/Attractions/1767/640x480_image009_8632.jpg",
+    "Point": [
+      23.1336,
+      120.72122
+    ]
+  },
+  {
+    "Name": "藤枝櫻花原生茶園",
+    "Img": "https://khh.travel/content/images/Attractions/1769/640x480_image012_8634.jpg",
+    "Point": [
+      23.06733,
+      120.75491
+    ]
+  },
+  {
+    "Name": "索阿紀吊橋",
+    "Img": "https://khh.travel/content/images/Attractions/1780/640x480_image034_8638.jpg",
+    "Point": [
+      23.13138,
+      120.72451
+    ]
+  },
+  {
+    "Name": "瓦阿係吊橋",
+    "Img": "https://khh.travel/content/images/Attractions/1782/640x480_image038_8639.jpg",
+    "Point": [
+      23.21677,
+      120.80361
+    ]
+  },
+  {
+    "Name": "馬舒霍爾文化聚落所",
+    "Img": "https://khh.travel/content/images/Attractions/1784/640x480_image042_8641.jpg",
+    "Point": [
+      23.27343,
+      120.82564
+    ]
+  },
+  {
+    "Name": "南華商圈",
+    "Img": "https://khh.travel/image/1795/640x480",
+    "Point": [
+      22.63012,
+      120.30282
+    ]
+  },
+  {
+    "Name": "新堀江商圈",
+    "Img": "https://khh.travel/image/1797/640x480",
+    "Point": [
+      22.62326,
+      120.3019
+    ]
+  },
+  {
+    "Name": "鑽石沙灣海岸景色",
+    "Img": "https://khh.travel/image/1827/640x480",
+    "Point": [
+      22.82133,
+      120.20755
+    ]
+  },
+  {
+    "Name": "烏林投步道",
+    "Img": "https://khh.travel/image/1846/640x480",
+    "Point": [
+      22.84051,
+      120.20085
+    ]
+  },
+  {
+    "Name": "維新彩繪村",
+    "Img": "https://khh.travel/image/1849/640x480",
+    "Point": [
+      22.80601,
+      120.24544
+    ]
+  },
+  {
+    "Name": "永安濕地",
+    "Img": "https://khh.travel/image/1850/640x480",
+    "Point": [
+      22.83586,
+      120.21152
+    ]
+  },
+  {
+    "Name": "見城館",
+    "Img": "https://khh.travel/content/images/Attractions/1867/640x480_imag4241_8693.jpg",
+    "Point": [
+      22.67694,
+      120.29142
+    ]
+  },
+  {
+    "Name": "再見捌捌陸-臺灣眷村文化園區",
+    "Img": "https://khh.travel/content/images/Attractions/1873/640x480_3_dsc04487_8701.jpg",
+    "Point": [
+      22.69249,
+      120.289
+    ]
+  },
+  {
+    "Name": "芒果咖秋",
+    "Img": "",
+    "Point": [
+      22.68924,
+      120.29904
+    ]
+  },
+  {
+    "Name": "左營舊城車站",
+    "Img": "https://khh.travel/content/images/Attractions/1920/640x480_image007_8851.jpg",
+    "Point": [
+      22.67396,
+      120.29357
+    ]
+  },
+  {
+    "Name": "內惟車站",
+    "Img": "https://khh.travel/content/images/Attractions/1921/640x480_image009_8854.jpg",
+    "Point": [
+      22.66613,
+      120.28719
+    ]
+  },
+  {
+    "Name": "美術館車站",
+    "Img": "https://khh.travel/content/images/Attractions/1923/640x480_image013_8856.jpg",
+    "Point": [
+      22.65153,
+      120.28117
+    ]
+  },
+  {
+    "Name": "民族車站",
+    "Img": "https://khh.travel/content/images/Attractions/1928/640x480_image022_8857.jpg",
+    "Point": [
+      22.63865,
+      120.3144
+    ]
+  },
+  {
+    "Name": "科工館車站",
+    "Img": "https://khh.travel/content/images/Attractions/1931/640x480_image028_8858.jpg",
+    "Point": [
+      22.63677,
+      120.32708
+    ]
+  },
+  {
+    "Name": "正義車站",
+    "Img": "https://khh.travel/content/images/Attractions/1935/640x480_image036_8859.jpg",
+    "Point": [
+      22.63471,
+      120.34266
+    ]
+  },
+  {
+    "Name": "北極亭",
+    "Img": "https://khh.travel/image/8468/640x480",
+    "Point": [
+      22.68494,
+      120.29531
+    ]
+  },
+  {
+    "Name": "鼓山車站",
+    "Img": "https://khh.travel/content/images/Attractions/1948/640x480_image016_8878.jpg",
+    "Point": [
+      22.64137,
+      120.27982
+    ]
+  },
+  {
+    "Name": "金馬賓館當代美術館",
+    "Img": "https://khh.travel/image/1998/640x480",
+    "Point": [
+      22.62767,
+      120.27878
+    ]
+  },
+  {
+    "Name": "市境之南樹",
+    "Img": "https://khh.travel/content/images/Attractions/39180/640x480_attractions-image-htrehjiu90-3o7renixmdg.jpg",
+    "Point": [
+      22.47626,
+      120.41382
+    ]
+  },
+  {
+    "Name": "中寮山",
+    "Img": "https://khh.travel/content/images/Attractions/37552/640x480_attractions-image-ba-o_lsomekyidraigsbfq.jpg",
+    "Point": [
+      22.83009,
+      120.43246
+    ]
+  },
+  {
+    "Name": "愛河",
+    "Img": "https://khh.travel/content/images/Attractions/37515/640x480_attractions-image-acslncusaug127vkol3esq.jpg",
+    "Point": [
+      22.62483,
+      120.28904
+    ]
+  },
+  {
+    "Name": "白色戀人貨櫃屋",
+    "Img": "https://khh.travel/content/images/Attractions/37413/640x480_attractions-image-yzvgxhimz0k2ryaexuocfg.jpg",
+    "Point": [
+      22.62572,
+      120.28958
+    ]
+  },
+  {
+    "Name": "高雄流行音樂中心(愛河灣)",
+    "Img": "https://khh.travel/content/images/Attractions/34272/640x480_attractions-image-jq8wdusfykat0vsghe66rq.jpg",
+    "Point": [
+      22.61781,
+      120.28732
+    ]
+  },
+  {
+    "Name": "黃埔新村",
+    "Img": "https://khh.travel/content/images/Attractions/37583/640x480_attractions-image-a90cfntnke2bxkhey-qprg.jpg",
+    "Point": [
+      22.61873,
+      120.36319
+    ]
+  },
+  {
+    "Name": "旗津沙灘吧Cijin Sunset Bar",
+    "Img": "https://khh.travel/content/images/Attractions/20195/640x480_attractions-image-j1uusgsqauenjs0wcxviua.jpg",
+    "Point": [
+      22.61006,
+      120.26751
+    ]
+  },
+  {
+    "Name": "高雄燈塔(旗津旗后燈塔)",
+    "Img": "https://khh.travel/content/images/Attractions/37660/640x480_attractions-image-45iwvloqd0scdirtojobjg.jpg",
+    "Point": [
+      22.61552,
+      120.26471
+    ]
+  },
+  {
+    "Name": "哈瑪星鐵道文化園區",
+    "Img": "https://khh.travel/content/images/Attractions/37430/640x480_attractions-image-jgbweu3_akeqksuyy5tv1g.jpg",
+    "Point": [
+      22.62122,
+      120.27744
+    ]
+  },
+  {
+    "Name": "舊三和銀行(新濱・駅前)",
+    "Img": "https://khh.travel/content/images/Attractions/37502/640x480_attractions-image-fb21fg8vekyrdr_yd8nu_g.jpg",
+    "Point": [
+      22.62213,
+      120.27452
+    ]
+  },
+  {
+    "Name": "哈瑪星貿易商大樓",
+    "Img": "https://khh.travel/content/images/Attractions/37400/640x480_attractions-image-n5q6jv4-fuoobmuriqzvsq.jpg",
+    "Point": [
+      22.62208,
+      120.27481
+    ]
+  },
+  {
+    "Name": "舊打狗驛故事館",
+    "Img": "https://khh.travel/content/images/Attractions/37488/640x480_attractions-image-pawm5jqjouiuvjecbswbqg.jpg",
+    "Point": [
+      22.6217,
+      120.2755
+    ]
+  },
+  {
+    "Name": "西子灣觀景台（觀海平台）",
+    "Img": "https://khh.travel/content/images/Attractions/37404/640x480_attractions-image-iwtybstbqeitssmtrsjeww.jpg",
+    "Point": [
+      22.61769,
+      120.26591
+    ]
+  },
+  {
+    "Name": "打狗英國領事館文化園區",
+    "Img": "",
+    "Point": [
+      22.61891,
+      120.26684
+    ]
+  },
+  {
+    "Name": "逍遙園",
+    "Img": "https://khh.travel/content/images/Attractions/37307/640x480_attractions-image-xli2a8y_suiqghttdtojsw.jpg",
+    "Point": [
+      22.63167,
+      120.31007
+    ]
+  },
+  {
+    "Name": "興達港(情人碼頭)",
+    "Img": "https://khh.travel/content/images/Attractions/20116/640x480_attractions-image--xlzj8hvjuot8tbda9d7eq.jpg",
+    "Point": [
+      22.86843,
+      120.19391
+    ]
+  },
+  {
+    "Name": "內門紫竹寺",
+    "Img": "https://khh.travel/content/images/Attractions/37247/640x480_attractions-image-lw1ozhbzsumvispd741hxw.jpg",
+    "Point": [
+      22.91718,
+      120.45503
+    ]
+  },
+  {
+    "Name": "南寮海岸光廊(彌陀漁港海岸光廊)",
+    "Img": "https://khh.travel/content/images/Attractions/37299/640x480_attractions-image-szuxzjziqeotecmpezfpxg.jpg",
+    "Point": [
+      22.76099,
+      120.23429
+    ]
+  },
+  {
+    "Name": "大崗山風景區",
+    "Img": "https://khh.travel/content/images/Attractions/37239/640x480_attractions-image-huayxgtjzuwdb8v2dvyfjw.jpg",
+    "Point": [
+      22.85971,
+      120.34497
+    ]
+  },
+  {
+    "Name": "觀音山風景區",
+    "Img": "https://khh.travel/content/images/Attractions/37378/640x480_attractions-image-aysoy4x0feuv2nhf4xb5la.jpg",
+    "Point": [
+      22.72964,
+      120.37175
+    ]
+  },
+  {
+    "Name": "林園安樂樓",
+    "Img": "https://khh.travel/content/images/Attractions/37271/640x480_attractions-image-zvunzybezuejvsm2_wdgfg.jpg",
+    "Point": [
+      22.50565,
+      120.39512
+    ]
+  },
+  {
+    "Name": "林園海洋濕地公園",
+    "Img": "https://khh.travel/content/images/Attractions/37283/640x480_attractions-image-9v0nejjs1uy6xrlie3mfuq.jpg",
+    "Point": [
+      22.49176,
+      120.38572
+    ]
+  },
+  {
+    "Name": "清水巖風景區(林園清水寺)",
+    "Img": "https://khh.travel/content/images/Attractions/37599/640x480_attractions-image-1hkkttl77ueappwn8mgxeq.jpg",
+    "Point": [
+      22.52344,
+      120.39054
+    ]
+  },
+  {
+    "Name": "十八羅漢山風景區",
+    "Img": "https://khh.travel/content/images/Attractions/20392/640x480_attractions-image-7z39rlszhumfflab0qmkcw.jpg",
+    "Point": [
+      22.95008,
+      120.64185
+    ]
+  },
+  {
+    "Name": "台灣鳳梨工場",
+    "Img": "https://khh.travel/content/images/Attractions/37258/640x480_attractions-image-bs-ktrruiuug8pviclreow.jpg",
+    "Point": [
+      22.65771,
+      120.4208
+    ]
+  },
+  {
+    "Name": "舊鐵橋濕地教育園區（大樹舊鐵橋）",
+    "Img": "https://khh.travel/content/images/Attractions/37575/640x480_attractions-image-jad3dyc62e6etwavps7v4w.jpg",
+    "Point": [
+      22.66231,
+      120.42698
+    ]
+  },
+  {
+    "Name": "統一夢時代購物中心",
+    "Img": "https://khh.travel/content/images/Attractions/37455/640x480_attractions-image-pmckb7mrsega-kk4dzr_sg.jpg",
+    "Point": [
+      22.59515,
+      120.30692
+    ]
+  },
+  {
+    "Name": "高雄展覽館",
+    "Img": "https://khh.travel/content/images/Attractions/37446/640x480_attractions-image-ysimhy_ol0wbgsvwg1w0uq.jpg",
+    "Point": [
+      22.60788,
+      120.29833
+    ]
+  },
+  {
+    "Name": "果貿社區",
+    "Img": "https://khh.travel/content/images/Attractions/37559/640x480_attractions-image-tcanyeyg_uqindzv1kb_kq.jpg",
+    "Point": [
+      22.67015,
+      120.28819
+    ]
+  },
+  {
+    "Name": "橋頭糖廠(台灣糖業博物館)",
+    "Img": "https://khh.travel/content/images/Attractions/19963/640x480_attractions-image-o7sblbmk5eac7otxa8rczq.jpg",
+    "Point": [
+      22.75568,
+      120.31433
+    ]
+  },
+  {
+    "Name": "旗津豪華露營",
+    "Img": "https://khh.travel/content/images/Attractions/37323/640x480_attractions-image-pll3tr4eju2ahv4lu0yyvw.jpg",
+    "Point": [
+      22.59497,
+      120.2796
+    ]
+  },
+  {
+    "Name": "哈瑪星台灣鐵道館",
+    "Img": "https://khh.travel/content/images/Attractions/37385/640x480_attractions-image-fm-gp0puguoyvh5hwmgxha.jpg",
+    "Point": [
+      22.62083,
+      120.27845
+    ]
+  },
+  {
+    "Name": "HOLO Park映像鹽埕",
+    "Img": "https://khh.travel/content/images/Attractions/37523/640x480_attractions-image-pkoauferz02fjkfqloxmvg.jpg",
+    "Point": [
+      22.6151,
+      120.28627
+    ]
+  },
+  {
+    "Name": "旗津老街（廟前路）",
+    "Img": "https://khh.travel/content/images/Attractions/37550/640x480_attractions-image-vqqh66bbtkqkh69rox6xug.jpg",
+    "Point": [
+      22.61266,
+      120.26824
+    ]
+  },
+  {
+    "Name": "三塊厝舊站",
+    "Img": "https://khh.travel/content/images/Attractions/1956/640x480_image024_8879.jpg",
+    "Point": [
+      22.63872,
+      120.29387
+    ]
+  },
+  {
+    "Name": "原日本海軍鳳山無線電信所",
+    "Img": "https://khh.travel/content/images/Attractions/20039/640x480_attractions-image-newfose_qemkjtqeo9uodg.jpg",
+    "Point": [
+      22.63108,
+      120.37508
+    ]
+  },
+  {
+    "Name": "高雄市立歷史博物館",
+    "Img": "https://khh.travel/content/images/Attractions/22223/640x480_attractions-image-gr30th1haem2xa7z-8qudg.jpg",
+    "Point": [
+      22.62695,
+      120.2868
+    ]
+  },
+  {
+    "Name": "淨園休閒農場",
+    "Img": "https://khh.travel/image/1810/640x480",
+    "Point": [
+      22.579,
+      120.34441
+    ]
+  },
+  {
+    "Name": "永新灣",
+    "Img": "https://khh.travel/content/images/Attractions/21812/640x480_attractions-image-1zm92fxyg0c7wyuj4acqna.jpg",
+    "Point": [
+      22.81513,
+      120.21001
+    ]
+  },
+  {
+    "Name": "文興宮",
+    "Img": "https://khh.travel/content/images/Attractions/21810/640x480_attractions-image-6x2epkvzi0260athl7kp4a.jpg",
+    "Point": [
+      22.8046,
+      120.24641
+    ]
+  },
+  {
+    "Name": "永安宮",
+    "Img": "https://khh.travel/content/images/Attractions/21808/640x480_attractions-image-vhizeqgoak6fnhmluykunq.jpg",
+    "Point": [
+      22.81819,
+      120.22492
+    ]
+  },
+  {
+    "Name": "紫蝶幽谷",
+    "Img": "https://khh.travel/content/images/Attractions/21806/640x480_attractions-image-jph4bt2naecudjplf3xx4g.jpg",
+    "Point": [
+      22.88766,
+      120.66314
+    ]
+  },
+  {
+    "Name": "多納高吊橋",
+    "Img": "https://khh.travel/image/1023/640x480",
+    "Point": [
+      22.91453,
+      120.68841
+    ]
+  },
+  {
+    "Name": "情人谷",
+    "Img": "https://khh.travel/content/images/Attractions/21768/640x480_attractions-image-hh838zwofe2etaumh_u4rw.jpg",
+    "Point": [
+      22.87588,
+      120.66683
+    ]
+  },
+  {
+    "Name": "黃家伙房",
+    "Img": "https://khh.travel/image/1809/640x480",
+    "Point": [
+      22.9604,
+      120.53214
+    ]
+  },
+  {
+    "Name": "田寮石頭廟",
+    "Img": "https://khh.travel/image/1225/640x480",
+    "Point": [
+      22.83569,
+      120.38654
+    ]
+  },
+  {
+    "Name": "美濃文創中心",
+    "Img": "https://khh.travel/content/images/Attractions/1649/640x480_img_1920_7694.jpg",
+    "Point": [
+      22.89978,
+      120.54223
+    ]
+  },
+  {
+    "Name": "美濃湖",
+    "Img": "https://khh.travel/content/images/Attractions/19904/640x480_attractions-image-rhfdeodkzuqa2bgh2iqfca.jpg",
+    "Point": [
+      22.90736,
+      120.5515
+    ]
+  },
+  {
+    "Name": "阿公店水庫",
+    "Img": "https://khh.travel/image/1331/640x480",
+    "Point": [
+      22.81139,
+      120.34389
+    ]
+  },
+  {
+    "Name": "佛光山佛陀紀念館",
+    "Img": "https://khh.travel/image/1575/640x480",
+    "Point": [
+      22.75729,
+      120.44032
+    ]
+  },
+  {
+    "Name": "旗津黃金海韻－海珍珠",
+    "Img": "https://khh.travel/content/images/Attractions/37528/640x480_attractions-image-o-d9rmdeqewezm1uri3gjg.jpg",
+    "Point": [
+      22.60114,
+      120.27425
+    ]
+  },
+  {
+    "Name": "宏裕行花枝丸館",
+    "Img": "https://khh.travel/content/images/Attractions/19717/640x480_attractions-image-cr716wdwaksy6ytnr6wrqa.jpg",
+    "Point": [
+      22.57749,
+      120.31548
+    ]
+  },
+  {
+    "Name": "台灣滷味博物館",
+    "Img": "https://khh.travel/content/images/Attractions/2015/640x480_image001_6257.jpg",
+    "Point": [
+      22.81757,
+      120.26736
+    ]
+  },
+  {
+    "Name": "裕賀牛觀光工廠",
+    "Img": "https://khh.travel/content/images/Attractions/2014/640x480_image001_9226.jpg",
+    "Point": [
+      22.77024,
+      120.383
+    ]
+  },
+  {
+    "Name": "珍芳烏魚子見學工廠",
+    "Img": "https://khh.travel/image/2020/640x480",
+    "Point": [
+      22.58249,
+      120.31276
+    ]
+  },
+  {
+    "Name": "馬玉山紅頂穀創穀物文創樂園(馬玉山觀光工廠)",
+    "Img": "https://khh.travel/content/images/Attractions/19708/640x480_attractions-image-w_8l6rkumuaorc8b5wwqkg.jpg",
+    "Point": [
+      22.67201,
+      120.31748
+    ]
+  },
+  {
+    "Name": "高雄市立圖書館總館",
+    "Img": "",
+    "Point": [
+      22.61024,
+      120.30174
+    ]
+  },
+  {
+    "Name": "鳳山車站",
+    "Img": "https://khh.travel/content/images/Attractions/1939/640x480_image044_8860.jpg",
+    "Point": [
+      22.63172,
+      120.35825
+    ]
+  },
+  {
+    "Name": "高雄車站",
+    "Img": "https://khh.travel/content/images/Attractions/19954/640x480_attractions-image-hjhxv8xhleavh7yckf1y2w.jpg",
+    "Point": [
+      22.63832,
+      120.30311
+    ]
+  },
+  {
+    "Name": "郭常喜兵器館",
+    "Img": "https://khh.travel/image/745/640x480",
+    "Point": [
+      22.87537,
+      120.19788
+    ]
+  },
+  {
+    "Name": "錫安山",
+    "Img": "https://khh.travel/image/919/640x480",
+    "Point": [
+      23.20369,
+      120.66703
+    ]
+  },
+  {
+    "Name": "杉林葫蘆藝術-大愛館",
+    "Img": "https://khh.travel/image/1806/640x480",
+    "Point": [
+      22.96941,
+      120.54161
+    ]
+  },
+  {
+    "Name": "岡山228和平紀念公園",
+    "Img": "https://khh.travel/image/1291/640x480",
+    "Point": [
+      22.79778,
+      120.30306
+    ]
+  },
+  {
+    "Name": "旗津星空隧道",
+    "Img": "https://khh.travel/content/images/Attractions/40147/640x480_attractions-image-el34vlwteemdi5phbwp5lg.jpg",
+    "Point": [
+      22.61287,
+      120.26411
+    ]
+  },
+  {
+    "Name": "壽山國家自然公園",
+    "Img": "https://khh.travel/image/432/640x480",
+    "Point": [
+      22.63532,
+      120.27816
+    ]
+  },
+  {
+    "Name": "天主教真福山社福園區",
+    "Img": "https://khh.travel/image/636/640x480",
+    "Point": [
+      23.00495,
+      120.56304
+    ]
+  },
+  {
+    "Name": "佛光山",
+    "Img": "https://khh.travel/content/images/Attractions/18453/640x480_attractions-image-nklp00q7cu2yvhwwckcuga.jpg",
+    "Point": [
+      22.7474,
+      120.44612
+    ]
+  },
+  {
+    "Name": "茄萣膠筏協會-漁家說家常",
+    "Img": "https://khh.travel/image/8464/640x480",
+    "Point": [
+      22.9151,
+      120.18218
+    ]
+  },
+  {
+    "Name": "順賢宮",
+    "Img": "https://khh.travel/image/580/640x480",
+    "Point": [
+      22.91245,
+      120.47039
+    ]
+  },
+  {
+    "Name": "田寮月世界",
+    "Img": "https://khh.travel/content/images/Attractions/20398/640x480_attractions-image-scvbhgtswka0el7kfq8kca.jpg",
+    "Point": [
+      22.886,
+      120.38898
+    ]
+  },
+  {
+    "Name": "壽山Love情人觀景台",
+    "Img": "https://khh.travel/content/images/Attractions/20091/640x480_attractions-image-1iqp9gtzjemop-4yjqjsmq.jpg",
+    "Point": [
+      22.62548,
+      120.27401
+    ]
+  },
+  {
+    "Name": "SKM Park",
+    "Img": "https://khh.travel/content/images/Attractions/38879/640x480_attractions-image-iyhcqhzijkudt9pnloh6rg.jpg",
+    "Point": [
+      22.58259,
+      120.32933
+    ]
+  },
+  {
+    "Name": "旗津貝殼館",
+    "Img": "https://khh.travel/content/images/Attractions/20416/640x480_attractions-image-wajrcf9sye-255ygid9jqq.jpg",
+    "Point": [
+      22.60115,
+      120.27425
+    ]
+  },
+  {
+    "Name": "西臨港線自行車道",
+    "Img": "https://khh.travel/image/759/640x480",
+    "Point": [
+      22.61903,
+      120.27674
+    ]
+  },
+  {
+    "Name": "茄萣漁村風情自行車路線",
+    "Img": "https://khh.travel/content/images/Attractions/34240/640x480_attractions-image--x-lrndjhuwixy30h5mbja.jpg",
+    "Point": [
+      22.87773,
+      120.21172
+    ]
+  },
+  {
+    "Name": "佛光緣美術館 (總館)",
+    "Img": "https://khh.travel/content/images/Attractions/40662/640x480_attractions-image-xymp1tvk2ewn5p209spiag.jpg",
+    "Point": [
+      22.75196,
+      120.44484
+    ]
+  },
+  {
+    "Name": "澄清湖風景區",
+    "Img": "",
+    "Point": [
+      22.66039,
+      120.35377
+    ]
+  },
+  {
+    "Name": "旗後礮臺（旗后砲台）",
+    "Img": "https://khh.travel/image/828/640x480",
+    "Point": [
+      22.61303,
+      120.2641
+    ]
+  },
+  {
+    "Name": "金獅湖風景區",
+    "Img": "https://khh.travel/content/images/Attractions/20826/640x480_attractions-image-7xfj4ihu-eiqq-4vspwexa.jpg",
+    "Point": [
+      22.66526,
+      120.32769
+    ]
+  },
+  {
+    "Name": "高雄市文化中心",
+    "Img": "https://khh.travel/image/93/640x480",
+    "Point": [
+      22.6258,
+      120.31814
+    ]
+  },
+  {
+    "Name": "孔廟",
+    "Img": "https://khh.travel/image/524/640x480",
+    "Point": [
+      22.68923,
+      120.29904
+    ]
+  },
+  {
+    "Name": "鳳山縣舊城",
+    "Img": "https://khh.travel/image/457/640x480",
+    "Point": [
+      22.68025,
+      120.29053
+    ]
+  },
+  {
+    "Name": "高雄市立美術館",
+    "Img": "https://khh.travel/image/394/640x480",
+    "Point": [
+      22.65669,
+      120.28655
+    ]
+  },
+  {
+    "Name": "旗津觀光漁港",
+    "Img": "https://khh.travel/image/1112/640x480",
+    "Point": [
+      22.59086,
+      120.2869
+    ]
+  },
+  {
+    "Name": "摩登高雄-R9中央公園站",
+    "Img": "https://khh.travel/image/158/640x480",
+    "Point": [
+      22.62486,
+      120.3011
+    ]
+  },
+  {
+    "Name": "鳥松濕地",
+    "Img": "https://khh.travel/content/images/Attractions/1885/640x480_01_6884.jpg",
+    "Point": [
+      22.65286,
+      120.34981
+    ]
+  },
+  {
+    "Name": "高雄都會公園",
+    "Img": "https://khh.travel/image/653/640x480",
+    "Point": [
+      22.73328,
+      120.31042
+    ]
+  },
+  {
+    "Name": "衛武營都會公園",
+    "Img": "https://khh.travel/image/1408/640x480",
+    "Point": [
+      22.61977,
+      120.33954
+    ]
+  },
+  {
+    "Name": "旗津天后宮",
+    "Img": "https://khh.travel/image/1132/640x480",
+    "Point": [
+      22.61338,
+      120.26843
+    ]
+  },
+  {
+    "Name": "旗山車站-糖鐵故事館",
+    "Img": "https://khh.travel/content/images/Attractions/20075/640x480_attractions-image-nfuw3hgy1ucfyfc8ijrylq.jpg",
+    "Point": [
+      22.88462,
+      120.48197
+    ]
+  },
+  {
+    "Name": "西子灣風景區",
+    "Img": "",
+    "Point": [
+      22.62488,
+      120.26476
+    ]
+  },
+  {
+    "Name": "美濃客家文物館",
+    "Img": "https://khh.travel/content/images/Attractions/20137/640x480_attractions-image-yt9fedvu6esuqsfs1kve3w.jpg",
+    "Point": [
+      22.91107,
+      120.55754
+    ]
+  },
+  {
+    "Name": "鳳儀書院",
+    "Img": "https://khh.travel/content/images/Attractions/18534/640x480_attractions-image-gwlrnkhfvkmko9ivoo6rca.jpg",
+    "Point": [
+      22.62775,
+      120.35948
+    ]
+  },
+  {
+    "Name": "美濃民俗村",
+    "Img": "https://khh.travel/content/images/Attractions/20154/640x480_attractions-image-tqpmydatskmezl7ictvc0q.jpg",
+    "Point": [
+      22.89313,
+      120.51397
+    ]
+  },
+  {
+    "Name": "岡山公園",
+    "Img": "",
+    "Point": [
+      22.79674,
+      120.29175
+    ]
+  },
+  {
+    "Name": "開漳聖王廟",
+    "Img": "https://khh.travel/image/568/640x480",
+    "Point": [
+      22.62812,
+      120.35201
+    ]
+  },
+  {
+    "Name": "三鳳宮",
+    "Img": "https://khh.travel/image/736/640x480",
+    "Point": [
+      22.63584,
+      120.29416
+    ]
+  },
+  {
+    "Name": "壽天宮",
+    "Img": "https://khh.travel/image/957/640x480",
+    "Point": [
+      22.79814,
+      120.29112
+    ]
+  },
+  {
+    "Name": "高雄關帝廟(武廟)",
+    "Img": "https://khh.travel/image/374/640x480",
+    "Point": [
+      22.63027,
+      120.33155
+    ]
+  },
+  {
+    "Name": "玫瑰聖母聖殿主教座堂",
+    "Img": "https://khh.travel/image/1421/640x480",
+    "Point": [
+      22.62032,
+      120.29162
+    ]
+  },
+  {
+    "Name": "義大世界",
+    "Img": "",
+    "Point": [
+      22.72984,
+      120.40673
+    ]
+  },
+  {
+    "Name": "城市光廊",
+    "Img": "https://khh.travel/image/875/640x480",
+    "Point": [
+      22.62305,
+      120.2989
+    ]
+  },
+  {
+    "Name": "甲仙化石館",
+    "Img": "https://khh.travel/image/334/640x480",
+    "Point": [
+      23.09219,
+      120.58827
+    ]
+  },
+  {
+    "Name": "新光碼頭",
+    "Img": "https://khh.travel/content/images/Attractions/20121/640x480_attractions-image-q700de17zewmpewp15sjdg.jpg",
+    "Point": [
+      22.60906,
+      120.29773
+    ]
+  },
+  {
+    "Name": "鼓山公園",
+    "Img": "https://khh.travel/image/1067/640x480",
+    "Point": [
+      22.89,
+      120.47706
+    ]
+  },
+  {
+    "Name": "旗山糖廠",
+    "Img": "https://khh.travel/content/images/Attractions/39185/640x480_attractions-image-1g4mekyq50wzil-a-hqehg.jpg",
+    "Point": [
+      22.88162,
+      120.49168
+    ]
+  },
+  {
+    "Name": "臺糖花卉農園中心",
+    "Img": "https://khh.travel/image/1150/640x480",
+    "Point": [
+      22.74117,
+      120.32486
+    ]
+  },
+  {
+    "Name": "燕巢雞冠山",
+    "Img": "https://khh.travel/image/1168/640x480",
+    "Point": [
+      22.80912,
+      120.39775
+    ]
+  },
+  {
+    "Name": "南寮漁港",
+    "Img": "https://khh.travel/image/1175/640x480",
+    "Point": [
+      22.76236,
+      120.23341
+    ]
+  },
+  {
+    "Name": "訓風砲台",
+    "Img": "https://khh.travel/content/images/Attractions/20019/640x480_attractions-image-nr3hitpcduk2swasrqktyq.jpg",
+    "Point": [
+      22.61984,
+      120.36192
+    ]
+  },
+  {
+    "Name": "國家體育場（世運主場館）",
+    "Img": "https://khh.travel/content/images/Attractions/19976/640x480_attractions-image-56yhwseojukfj5dhf6yxag.jpg",
+    "Point": [
+      22.629592,
+      120.3413
+    ]
+  },
+  {
+    "Name": "大東濕地公園",
+    "Img": "https://khh.travel/content/images/Attractions/34234/640x480_attractions-image-ozboubvraemdtxrwrayzaa.jpg",
+    "Point": [
+      22.62702,
+      120.36395
+    ]
+  },
+  {
+    "Name": "半屏山自然公園",
+    "Img": "https://khh.travel/image/496/640x480",
+    "Point": [
+      22.6974,
+      120.30971
+    ]
+  },
+  {
+    "Name": "台糖鳳山園藝休閒廣場",
+    "Img": "https://khh.travel/content/images/Attractions/56/640x480_ck9a2876_6446.jpg",
+    "Point": [
+      22.61469,
+      120.35843
+    ]
+  },
+  {
+    "Name": "寶來溫泉區",
+    "Img": "https://khh.travel/content/images/Attractions/20492/640x480_attractions-image-kcu3fyh6g02wju6ok-kjgw.png",
+    "Point": [
+      23.1054,
+      120.7013
+    ]
+  },
+  {
+    "Name": "翠華路自行車天橋",
+    "Img": "https://khh.travel/image/8495/640x480",
+    "Point": [
+      22.6796,
+      120.29876
+    ]
+  },
+  {
+    "Name": "曹公廟/平成砲台",
+    "Img": "https://khh.travel/content/images/Attractions/20031/640x480_attractions-image-gua9g-kuykusovnpojjdla.jpg",
+    "Point": [
+      22.62771,
+      120.35704
+    ]
+  },
+  {
+    "Name": "茂林谷",
+    "Img": "https://khh.travel/image/1638/640x480",
+    "Point": [
+      22.89138,
+      120.67359
+    ]
+  },
+  {
+    "Name": "茂林國家風景區",
+    "Img": "https://khh.travel/content/images/Attractions/20283/640x480_attractions-image-ytaqbbtunuetcp2qdfg0fg.jpg",
+    "Point": [
+      22.88812,
+      120.62001
+    ]
+  },
+  {
+    "Name": "張媽媽桑椹休閒農場",
+    "Img": "https://khh.travel/image/601/640x480",
+    "Point": [
+      22.74696,
+      120.44714
+    ]
+  },
+  {
+    "Name": "新威森林公園",
+    "Img": "https://khh.travel/content/images/Attractions/20369/640x480_attractions-image-_xc7l1nykkqlhtzlctj_ma.jpg",
+    "Point": [
+      22.89351,
+      120.62307
+    ]
+  },
+  {
+    "Name": "旗津風車公園",
+    "Img": "https://khh.travel/content/images/Attractions/20070/640x480_attractions-image-hb2ia9awbey0rv_emujebg.jpg",
+    "Point": [
+      22.58829,
+      120.28415
+    ]
+  },
+  {
+    "Name": "鳳山溪綠園道",
+    "Img": "https://khh.travel/image/1543/640x480",
+    "Point": [
+      22.61713,
+      120.35957
+    ]
+  },
+  {
+    "Name": "永齡杉林有機農業園區",
+    "Img": "https://khh.travel/image/727/640x480",
+    "Point": [
+      22.97752,
+      120.55051
+    ]
+  },
+  {
+    "Name": "鳳山溪前鎮河自行車路線",
+    "Img": "https://khh.travel/image/767/640x480",
+    "Point": [
+      22.59366,
+      120.3172
+    ]
+  },
+  {
+    "Name": "愛河自行車道",
+    "Img": "https://khh.travel/image/8500/640x480",
+    "Point": [
+      22.65271,
+      120.30313
+    ]
+  },
+  {
+    "Name": "國立科學工藝博物館",
+    "Img": "https://khh.travel/image/802/640x480",
+    "Point": [
+      22.64149,
+      120.32255
+    ]
+  },
+  {
+    "Name": "航空教育展示館",
+    "Img": "https://khh.travel/content/images/Attractions/19996/640x480_attractions-image-lz-3qzg_vkubrcfbjpwcra.jpg",
+    "Point": [
+      22.79416,
+      120.26907
+    ]
+  },
+  {
+    "Name": "高雄輕軌",
+    "Img": "https://khh.travel/image/8456/640x480",
+    "Point": [
+      22.58278,
+      120.33091
+    ]
+  },
+  {
+    "Name": "i-Ride KAOHSIUNG 5D 飛行劇院",
+    "Img": "https://khh.travel/content/images/Attractions/35872/640x480_attractions-image-rixy3qbvfu-vaumtcrxira.jpg",
+    "Point": [
+      22.60561,
+      120.2989
+    ]
+  },
+  {
+    "Name": "金獅湖蝴蝶園",
+    "Img": "",
+    "Point": [
+      22.66615,
+      120.3282
+    ]
+  },
+  {
+    "Name": "高雄市天文教育館",
+    "Img": "https://khh.travel/image/891/640x480",
+    "Point": [
+      22.568,
+      120.33746
+    ]
+  },
+  {
+    "Name": "FLOMO富樂夢橡皮擦觀光工廠",
+    "Img": "https://khh.travel/image/2005/640x480",
+    "Point": [
+      22.9034,
+      120.23132
+    ]
+  },
+  {
+    "Name": "鐵路地下化綠園道(綠園道彩繪)",
+    "Img": "https://khh.travel/content/images/Attractions/37340/640x480_attractions-image-89ufz3fejeoszb8nnmn1sw.jpg",
+    "Point": [
+      22.67396,
+      120.29357
+    ]
+  },
+  {
+    "Name": "澄清湖高爾夫球場",
+    "Img": "https://khh.travel/image/498/640x480",
+    "Point": [
+      22.66331,
+      120.33903
+    ]
+  },
+  {
+    "Name": "真愛碼頭",
+    "Img": "https://khh.travel/content/images/Attractions/20010/640x480_attractions-image-axf7r7kh90-npfswnt43zw.jpg",
+    "Point": [
+      22.61862,
+      120.28966
+    ]
+  },
+  {
+    "Name": "鳳山龍山寺",
+    "Img": "https://khh.travel/image/1470/640x480",
+    "Point": [
+      22.62078,
+      120.36201
+    ]
+  },
+  {
+    "Name": "市民廣場",
+    "Img": "https://khh.travel/image/1191/640x480",
+    "Point": [
+      22.62557,
+      120.28558
+    ]
+  },
+  {
+    "Name": "高雄市音樂館",
+    "Img": "https://khh.travel/image/1186/640x480",
+    "Point": [
+      22.62743,
+      120.28646
+    ]
+  },
+  {
+    "Name": "太陽谷",
+    "Img": "https://khh.travel/image/1157/640x480",
+    "Point": [
+      22.80378,
+      120.40708
+    ]
+  },
+  {
+    "Name": "大東文化藝術中心",
+    "Img": "https://khh.travel/content/images/Attractions/20412/640x480_attractions-image-0yuc51uze0esnagf2slu1w.jpg",
+    "Point": [
+      22.62497,
+      120.36349
+    ]
+  },
+  {
+    "Name": "天工開物-R23橋頭火車站",
+    "Img": "https://khh.travel/image/168/640x480",
+    "Point": [
+      22.76025,
+      120.31097
+    ]
+  },
+  {
+    "Name": "鳳山基督長老教會",
+    "Img": "https://khh.travel/content/images/Attractions/50/640x480_ck9a2943_6400.jpg",
+    "Point": [
+      22.6284,
+      120.36099
+    ]
+  },
+  {
+    "Name": "鳳山仙公廟",
+    "Img": "https://khh.travel/content/images/Attractions/47/640x480_ck9a2857_6399.jpg",
+    "Point": [
+      22.61535,
+      120.35534
+    ]
+  },
+  {
+    "Name": "陸軍官校(校史館)",
+    "Img": "https://khh.travel/image/1469/640x480",
+    "Point": [
+      22.61932,
+      120.36585
+    ]
+  },
+  {
+    "Name": "旗後教會",
+    "Img": "https://khh.travel/image/1129/640x480",
+    "Point": [
+      22.61182,
+      120.26763
+    ]
+  },
+  {
+    "Name": "旗山橋",
+    "Img": "https://khh.travel/content/images/Attractions/20415/640x480_attractions-image-0kv9wqg980woco_kgbqnzg.jpg",
+    "Point": [
+      22.88174,
+      120.48759
+    ]
+  },
+  {
+    "Name": "聖若瑟天主堂",
+    "Img": "https://khh.travel/image/1084/640x480",
+    "Point": [
+      22.88487,
+      120.47901
+    ]
+  },
+  {
+    "Name": "地景橋",
+    "Img": "https://khh.travel/image/1467/640x480",
+    "Point": [
+      22.88431,
+      120.48565
+    ]
+  },
+  {
+    "Name": "市定古蹟-旗山國小",
+    "Img": "https://khh.travel/image/1069/640x480",
+    "Point": [
+      22.88826,
+      120.48062
+    ]
+  },
+  {
+    "Name": "高雄哈瑪星代天宮",
+    "Img": "https://khh.travel/image/75/640x480",
+    "Point": [
+      22.6226,
+      120.27107
+    ]
+  },
+  {
+    "Name": "內惟埤文化園區",
+    "Img": "https://khh.travel/image/425/640x480",
+    "Point": [
+      22.65669,
+      120.28655
+    ]
+  },
+  {
+    "Name": "忠烈祠",
+    "Img": "https://khh.travel/content/images/Attractions/21016/640x480_attractions-image-gv4ul4fviugnojmq8zllcg.jpg",
+    "Point": [
+      22.62646,
+      120.27382
+    ]
+  },
+  {
+    "Name": "西子灣蔣介石行館",
+    "Img": "https://khh.travel/image/412/640x480",
+    "Point": [
+      22.6272,
+      120.26468
+    ]
+  },
+  {
+    "Name": "同安張家古厝",
+    "Img": "https://khh.travel/image/1057/640x480",
+    "Point": [
+      22.7523,
+      120.26723
+    ]
+  },
+  {
+    "Name": "光榮碼頭",
+    "Img": "https://khh.travel/content/images/Attractions/20136/640x480_attractions-image-k6bfxu1ftuq64nf9ml9iea.jpg",
+    "Point": [
+      22.61843,
+      120.29226
+    ]
+  },
+  {
+    "Name": "自來水公園",
+    "Img": "https://khh.travel/content/images/Attractions/28/640x480_img_0078_6273.jpg",
+    "Point": [
+      22.62729,
+      120.3149
+    ]
+  },
+  {
+    "Name": "永安老街",
+    "Img": "https://khh.travel/image/984/640x480",
+    "Point": [
+      22.89744,
+      120.5475
+    ]
+  },
+  {
+    "Name": "曾文忠美術館",
+    "Img": "https://khh.travel/image/1453/640x480",
+    "Point": [
+      22.89877,
+      120.5448
+    ]
+  },
+  {
+    "Name": "高雄市漁業文化館",
+    "Img": "https://khh.travel/image/964/640x480",
+    "Point": [
+      22.57225,
+      120.31673
+    ]
+  },
+  {
+    "Name": "岡山文化中心",
+    "Img": "https://khh.travel/image/931/640x480",
+    "Point": [
+      22.78327,
+      120.29827
+    ]
+  },
+  {
+    "Name": "葫蘆雕刻藝術館",
+    "Img": "https://khh.travel/image/361/640x480",
+    "Point": [
+      22.98893,
+      120.55958
+    ]
+  },
+  {
+    "Name": "陳家友善香草園",
+    "Img": "https://khh.travel/image/914/640x480",
+    "Point": [
+      23.08703,
+      120.58968
+    ]
+  },
+  {
+    "Name": "甲仙形象商圈",
+    "Img": "https://khh.travel/image/353/640x480",
+    "Point": [
+      23.08145,
+      120.58718
+    ]
+  },
+  {
+    "Name": "甲仙大橋",
+    "Img": "https://khh.travel/image/349/640x480",
+    "Point": [
+      23.08059,
+      120.58484
+    ]
+  },
+  {
+    "Name": "小林村紀念公園",
+    "Img": "https://khh.travel/image/913/640x480",
+    "Point": [
+      23.15425,
+      120.64019
+    ]
+  },
+  {
+    "Name": "六義山登山步道",
+    "Img": "https://khh.travel/image/343/640x480",
+    "Point": [
+      23.08858,
+      120.57225
+    ]
+  },
+  {
+    "Name": "大崗山高爾夫球場",
+    "Img": "https://khh.travel/image/1527/640x480",
+    "Point": [
+      22.8926,
+      120.3714
+    ]
+  },
+  {
+    "Name": "左營聖女小德蘭堂",
+    "Img": "https://khh.travel/image/324/640x480",
+    "Point": [
+      22.68353,
+      120.28826
+    ]
+  },
+  {
+    "Name": "原生植物園",
+    "Img": "https://khh.travel/image/316/640x480",
+    "Point": [
+      22.68055,
+      120.3012
+    ]
+  },
+  {
+    "Name": "洲仔濕地公園",
+    "Img": "https://khh.travel/content/images/Attractions/34239/640x480_attractions-image-jvulozdhhectjjkqqibdzw.jpg",
+    "Point": [
+      22.68055,
+      120.29822
+    ]
+  },
+  {
+    "Name": "薛家古厝",
+    "Img": "https://khh.travel/image/295/640x480",
+    "Point": [
+      22.68578,
+      120.28778
+    ]
+  },
+  {
+    "Name": "洪家古厝",
+    "Img": "https://khh.travel/image/280/640x480",
+    "Point": [
+      22.95341,
+      120.45893
+    ]
+  },
+  {
+    "Name": "雁門煙雨",
+    "Img": "https://khh.travel/content/images/Attractions/20387/640x480_attractions-image-e81f2hsfsuifwy9edoan_w.jpg",
+    "Point": [
+      22.91956,
+      120.42712
+    ]
+  },
+  {
+    "Name": "國定古蹟-竹仔門電廠",
+    "Img": "https://khh.travel/image/1444/640x480",
+    "Point": [
+      22.8694,
+      120.58639
+    ]
+  },
+  {
+    "Name": "彪琥台灣鞋故事館",
+    "Img": "https://khh.travel/image/2/640x480",
+    "Point": [
+      22.65374,
+      120.31344
+    ]
+  },
+  {
+    "Name": "中都唐榮磚窯廠",
+    "Img": "https://khh.travel/content/images/Attractions/22/640x480_ck9a2335_6207.jpg",
+    "Point": [
+      22.64206,
+      120.285
+    ]
+  },
+  {
+    "Name": "檨仔林埤濕地公園",
+    "Img": "https://khh.travel/image/193/640x480",
+    "Point": [
+      22.6727,
+      120.32707
+    ]
+  },
+  {
+    "Name": "啟明堂",
+    "Img": "https://khh.travel/image/619/640x480",
+    "Point": [
+      22.68234,
+      120.29214
+    ]
+  },
+  {
+    "Name": "木柵吊橋",
+    "Img": "https://khh.travel/image/188/640x480",
+    "Point": [
+      22.98098,
+      120.47147
+    ]
+  },
+  {
+    "Name": "旗山老街",
+    "Img": "https://khh.travel/image/1242/640x480",
+    "Point": [
+      22.88511,
+      120.48179
+    ]
+  },
+  {
+    "Name": "寶山假日市集",
+    "Img": "https://khh.travel/content/images/Attractions/1772/640x480_image017_8636.jpg",
+    "Point": [
+      23.05543,
+      120.72151
+    ]
+  },
+  {
+    "Name": "寶山茶園步道風光",
+    "Img": "",
+    "Point": [
+      23.00694,
+      120.65838
+    ]
+  },
+  {
+    "Name": "哨船頭山碉堡(西子灣)",
+    "Img": "https://khh.travel/image/2000/640x480",
+    "Point": [
+      22.62063,
+      120.268
+    ]
+  },
+  {
+    "Name": "多納部落",
+    "Img": "https://khh.travel/image/1033/640x480",
+    "Point": [
+      22.91104,
+      120.71591
+    ]
+  },
+  {
+    "Name": "林園紅樹林生態區(紅樹林人工溼地)",
+    "Img": "",
+    "Point": [
+      22.48781,
+      120.41616
+    ]
+  },
+  {
+    "Name": "鳳山天公廟",
+    "Img": "https://khh.travel/content/images/Attractions/44/640x480_ck9a2929_6398.jpg",
+    "Point": [
+      22.62521,
+      120.35975
+    ]
+  },
+  {
+    "Name": "新客家文化園區（高雄市客家文物館）",
+    "Img": "https://khh.travel/content/images/Attractions/20/640x480_ck9a2284_6208.jpg",
+    "Point": [
+      22.64936,
+      120.29509
+    ]
+  },
+  {
+    "Name": "姑婆寮莊家古厝",
+    "Img": "https://khh.travel/image/229/640x480",
+    "Point": [
+      22.70983,
+      120.42268
+    ]
+  },
+  {
+    "Name": "臺灣天壇",
+    "Img": "https://khh.travel/image/260/640x480",
+    "Point": [
+      22.77197,
+      120.44693
+    ]
+  },
+  {
+    "Name": "信誼高爾夫球場",
+    "Img": "https://khh.travel/image/9/640x480",
+    "Point": [
+      22.76584,
+      120.41911
+    ]
+  },
+  {
+    "Name": "觀音山高爾夫球場",
+    "Img": "https://khh.travel/image/265/640x480",
+    "Point": [
+      22.73635,
+      120.40334
+    ]
+  },
+  {
+    "Name": "不老溫泉區",
+    "Img": "https://khh.travel/image/290/640x480",
+    "Point": [
+      23.06606,
+      120.68505
+    ]
+  },
+  {
+    "Name": "空軍軍史館",
+    "Img": "https://khh.travel/image/936/640x480",
+    "Point": [
+      22.78468,
+      120.27258
+    ]
+  },
+  {
+    "Name": "美濃窯",
+    "Img": "https://khh.travel/image/1454/640x480",
+    "Point": [
+      22.90521,
+      120.52283
+    ]
+  },
+  {
+    "Name": "美濃原鄉緣紙傘文化村",
+    "Img": "https://khh.travel/image/1428/640x480",
+    "Point": [
+      22.88273,
+      120.54693
+    ]
+  },
+  {
+    "Name": "陳中和紀念館",
+    "Img": "https://khh.travel/image/1009/640x480",
+    "Point": [
+      22.61344,
+      120.29558
+    ]
+  },
+  {
+    "Name": "梅山遊客中心",
+    "Img": "https://khh.travel/image/380/640x480",
+    "Point": [
+      23.26336,
+      120.826
+    ]
+  },
+  {
+    "Name": "旗山孔廟",
+    "Img": "https://khh.travel/image/1077/640x480",
+    "Point": [
+      22.88878,
+      120.47624
+    ]
+  },
+  {
+    "Name": "勞動女性紀念公園",
+    "Img": "https://khh.travel/image/1093/640x480",
+    "Point": [
+      22.59447,
+      120.28084
+    ]
+  },
+  {
+    "Name": "余登發故居",
+    "Img": "https://khh.travel/image/1136/640x480",
+    "Point": [
+      22.75653,
+      120.31162
+    ]
+  },
+  {
+    "Name": "高雄市立電影館",
+    "Img": "https://khh.travel/image/1228/640x480",
+    "Point": [
+      22.62244,
+      120.28878
+    ]
+  },
+  {
+    "Name": "三和瓦窯",
+    "Img": "https://khh.travel/image/534/640x480",
+    "Point": [
+      22.66315,
+      120.42688
+    ]
+  },
+  {
+    "Name": "寶來妙通寺",
+    "Img": "https://khh.travel/content/images/Attractions/21679/640x480_attractions-image-dv3jdblaouknv9ko6wucuq.jpg",
+    "Point": [
+      23.10078,
+      120.68564
+    ]
+  },
+  {
+    "Name": "高雄文學館",
+    "Img": "https://khh.travel/image/1305/640x480",
+    "Point": [
+      22.6255,
+      120.29798
+    ]
+  },
+  {
+    "Name": "紅毛港文化園區",
+    "Img": "https://khh.travel/content/images/Attractions/20651/640x480_attractions-image-42nnrkctm02uwsnou3zffq.jpg",
+    "Point": [
+      22.5495,
+      120.31776
+    ]
+  },
+  {
+    "Name": "大坪頂熱帶植物園",
+    "Img": "https://khh.travel/image/131/640x480",
+    "Point": [
+      22.55653,
+      120.38938
+    ]
+  },
+  {
+    "Name": "澄清湖棒球場",
+    "Img": "https://khh.travel/image/111/640x480",
+    "Point": [
+      22.6546,
+      120.35905
+    ]
+  },
+  {
+    "Name": "台灣螺絲博物館",
+    "Img": "https://khh.travel/image/850/640x480",
+    "Point": [
+      22.80156,
+      120.28688
+    ]
+  },
+  {
+    "Name": "高雄市勞工博物館",
+    "Img": "",
+    "Point": [
+      22.62713,
+      120.28988
+    ]
+  },
+  {
+    "Name": "MLD台鋁",
+    "Img": "https://khh.travel/content/images/Attractions/1599/640x480_01_7507.jpg",
+    "Point": [
+      22.60394,
+      120.3037
+    ]
+  },
+  {
+    "Name": "舊振南漢餅文化館",
+    "Img": "https://khh.travel/content/images/Attractions/1673/640x480_jzn han pastry house_8318.jpg",
+    "Point": [
+      22.6223,
+      120.38907
+    ]
+  },
+  {
+    "Name": "志斌豆瓣醬故事館",
+    "Img": "https://khh.travel/content/images/Attractions/1714/640x480_image001-min_8529.jpg",
+    "Point": [
+      22.80719,
+      120.32175
+    ]
+  },
+  {
+    "Name": "高雄市皮影戲館",
+    "Img": "https://khh.travel/image/942/640x480",
+    "Point": [
+      22.7827,
+      120.29844
+    ]
+  },
+  {
+    "Name": "頂林仔邊派出所",
+    "Img": "https://khh.travel/image/856/640x480",
+    "Point": [
+      22.50504,
+      120.39451
+    ]
+  },
+  {
+    "Name": "戰爭與和平紀念公園主題館",
+    "Img": "https://khh.travel/image/1098/640x480",
+    "Point": [
+      22.59118,
+      120.28289
+    ]
+  },
+  {
+    "Name": "市定古蹟-竹寮取水站",
+    "Img": "https://khh.travel/image/221/640x480",
+    "Point": [
+      22.66786,
+      120.42636
+    ]
+  },
+  {
+    "Name": "立德棒球場",
+    "Img": "https://khh.travel/image/74/640x480",
+    "Point": [
+      22.62994,
+      120.2893
+    ]
+  },
+  {
+    "Name": "中都愛河濕地公園",
+    "Img": "https://khh.travel/image/889/640x480",
+    "Point": [
+      22.64655,
+      120.28653
+    ]
+  },
+  {
+    "Name": "那瑪夏民權國小",
+    "Img": "https://khh.travel/content/images/Attractions/21537/640x480_attractions-image-uuf2qdt8fekfbqwg-xxnzq.jpg",
+    "Point": [
+      23.24874,
+      120.70286
+    ]
+  },
+  {
+    "Name": "高雄清真寺",
+    "Img": "https://khh.travel/image/1018/640x480",
+    "Point": [
+      22.628,
+      120.34195
+    ]
+  },
+  {
+    "Name": "城邑左營慈濟宮",
+    "Img": "https://khh.travel/image/739/640x480",
+    "Point": [
+      22.68091,
+      120.29138
+    ]
+  },
+  {
+    "Name": "東照山關帝廟",
+    "Img": "https://khh.travel/image/252/640x480",
+    "Point": [
+      22.69409,
+      120.39355
+    ]
+  },
+  {
+    "Name": "旗山天后宮",
+    "Img": "https://khh.travel/image/1311/640x480",
+    "Point": [
+      22.88663,
+      120.4823
+    ]
+  },
+  {
+    "Name": "雙慈殿",
+    "Img": "https://khh.travel/content/images/Attractions/19913/640x480_attractions-image-mndmknrpvkwtlxc2t8_iww.jpg",
+    "Point": [
+      22.62513,
+      120.35784
+    ]
+  },
+  {
+    "Name": "鳳山城隍廟",
+    "Img": "https://khh.travel/image/815/640x480",
+    "Point": [
+      22.62726,
+      120.35919
+    ]
+  },
+  {
+    "Name": "諦願寺",
+    "Img": "https://khh.travel/content/images/Attractions/696/640x480_dsc02344_6895.jpg",
+    "Point": [
+      23.01094,
+      120.63856
+    ]
+  },
+  {
+    "Name": "東門樓",
+    "Img": "https://khh.travel/content/images/Attractions/21807/640x480_attractions-image-0aiblj3v80ixj7radwe3ya.jpg",
+    "Point": [
+      22.89567,
+      120.54886
+    ]
+  },
+  {
+    "Name": "美濃敬字亭",
+    "Img": "https://khh.travel/content/images/Attractions/21833/640x480_attractions-image-kuj8quwjmuit-9wl0zevrw.jpg",
+    "Point": [
+      22.90223,
+      120.53392
+    ]
+  },
+  {
+    "Name": "木柵教會 (重建中，暫不對外開放)",
+    "Img": "https://khh.travel/image/285/640x480",
+    "Point": [
+      22.97619,
+      120.46902
+    ]
+  },
+  {
+    "Name": "嗡嗡大峽谷",
+    "Img": "https://khh.travel/content/images/Attractions/21518/640x480_attractions-image-_ick2hqh_eqdnln2cknlnw.jpg",
+    "Point": [
+      23.2092,
+      120.67798
+    ]
+  },
+  {
+    "Name": "茂林三大名山-龍頭山、蛇頭山與龜形山",
+    "Img": "https://khh.travel/content/images/Attractions/21454/640x480_attractions-image-z8oki1mjj0y5yc1n3c8dqg.jpg",
+    "Point": [
+      22.91176,
+      120.68753
+    ]
+  },
+  {
+    "Name": "旗山生活文化園區",
+    "Img": "https://khh.travel/image/8489/640x480",
+    "Point": [
+      22.88999,
+      120.48085
+    ]
+  },
+  {
+    "Name": "右昌森林公園",
+    "Img": "https://khh.travel/image/387/640x480",
+    "Point": [
+      22.72056,
+      120.29345
+    ]
+  },
+  {
+    "Name": "空中的雨林-R17世運站",
+    "Img": "https://khh.travel/image/163/640x480",
+    "Point": [
+      22.70145,
+      120.30236
+    ]
+  },
+  {
+    "Name": "漯底山自然公園",
+    "Img": "https://khh.travel/image/1177/640x480",
+    "Point": [
+      22.77096,
+      120.25311
+    ]
+  },
+  {
+    "Name": "高雄港",
+    "Img": "https://khh.travel/image/408/640x480",
+    "Point": [
+      22.59944,
+      120.28809
+    ]
+  },
+  {
+    "Name": "八五大樓",
+    "Img": "https://khh.travel/content/images/Attractions/20535/640x480_attractions-image-v4evkv7s-kkv48rh68sviw.jpg",
+    "Point": [
+      22.61164,
+      120.30026
+    ]
+  },
+  {
+    "Name": "明德新村(將軍村)",
+    "Img": "https://khh.travel/image/8485/640x480",
+    "Point": [
+      22.69407,
+      120.28674
+    ]
+  },
+  {
+    "Name": "東便門(同儀門)/東福橋",
+    "Img": "https://khh.travel/content/images/Attractions/20406/640x480_attractions-image-qxlbveud-0g-dfg8fzncha.jpg",
+    "Point": [
+      22.62149,
+      120.36308
+    ]
+  },
+  {
+    "Name": "黃蝶翠谷",
+    "Img": "https://khh.travel/content/images/Attractions/1361/640x480_img_5260_6871.jpg",
+    "Point": [
+      22.88405,
+      120.57739
+    ]
+  },
+  {
+    "Name": "九番埤濕地公園",
+    "Img": "https://khh.travel/image/273/640x480",
+    "Point": [
+      22.68715,
+      120.32643
+    ]
+  },
+  {
+    "Name": "高雄市二二八和平公園",
+    "Img": "https://khh.travel/image/873/640x480",
+    "Point": [
+      22.62551,
+      120.28763
+    ]
+  },
+  {
+    "Name": "蓮潭滑水主題樂園",
+    "Img": "https://khh.travel/content/images/Attractions/20456/640x480_attractions-image-ta3664q-mkuyo9kmnyjeca.jpg",
+    "Point": [
+      22.67864,
+      120.29523
+    ]
+  },
+  {
+    "Name": "鍾理和紀念館",
+    "Img": "https://khh.travel/image/998/640x480",
+    "Point": [
+      22.93324,
+      120.58614
+    ]
+  },
+  {
+    "Name": "前鎮之星",
+    "Img": "https://khh.travel/content/images/Attractions/25/640x480_ck9a0454_6262.jpg",
+    "Point": [
+      22.59523,
+      120.31527
+    ]
+  },
+  {
+    "Name": "前鎮漁港",
+    "Img": "",
+    "Point": [
+      22.57057,
+      120.31533
+    ]
+  },
+  {
+    "Name": "十八王公廟",
+    "Img": "https://khh.travel/content/images/Attractions/34/640x480_ck9a1168_6375.jpg",
+    "Point": [
+      22.61923,
+      120.26707
+    ]
+  },
+  {
+    "Name": "光之穹頂-O5R10美麗島捷運站",
+    "Img": "https://khh.travel/content/images/Attractions/20104/640x480_attractions-image-tpcaf5sguucuhvl4q_mnmw.jpg",
+    "Point": [
+      22.63151,
+      120.30132
+    ]
+  },
+  {
+    "Name": "援中港生態濕地公園",
+    "Img": "https://khh.travel/image/541/640x480",
+    "Point": [
+      22.73013,
+      120.27041
+    ]
+  },
+  {
+    "Name": "前鎮輪渡站",
+    "Img": "https://khh.travel/content/images/Attractions/20059/640x480_attractions-image-xh6wj-rsn0-xtwfmsqxr9g.jpg",
+    "Point": [
+      22.58726,
+      120.30641
+    ]
+  },
+  {
+    "Name": "澄瀾砲台",
+    "Img": "https://khh.travel/content/images/Attractions/20015/640x480_attractions-image-dwbhvq3ojemuobyholdjkw.jpg",
+    "Point": [
+      22.62393,
+      120.35472
+    ]
+  },
+  {
+    "Name": "高鐵左營站",
+    "Img": "https://khh.travel/content/images/Attractions/19972/640x480_attractions-image-pl0n76ejtecacfk7nioxqa.jpg",
+    "Point": [
+      22.68713,
+      120.30765
+    ]
+  },
+  {
+    "Name": "內門308高地",
+    "Img": "https://khh.travel/image/1247/640x480",
+    "Point": [
+      22.97741,
+      120.44242
+    ]
+  },
+  {
+    "Name": "鴨母王朱一貴文化園區",
+    "Img": "https://khh.travel/image/684/640x480",
+    "Point": [
+      22.93946,
+      120.45337
+    ]
+  },
+  {
+    "Name": "漯底社區發展協會 - 斗笠歷史",
+    "Img": "https://khh.travel/image/8460/640x480",
+    "Point": [
+      22.76704,
+      120.24353
+    ]
+  },
+  {
+    "Name": "赤崁劉家古厝",
+    "Img": "https://khh.travel/image/8461/640x480",
+    "Point": [
+      22.73735,
+      120.2466
+    ]
+  },
+  {
+    "Name": "鹽田社區社區彩繪",
+    "Img": "https://khh.travel/image/8462/640x480",
+    "Point": [
+      22.83446,
+      120.20937
+    ]
+  },
+  {
+    "Name": "永安蘇班長安心漁場",
+    "Img": "https://khh.travel/image/8463/640x480",
+    "Point": [
+      22.83044,
+      120.2123
+    ]
+  },
+  {
+    "Name": "浦來溪頭社戰道",
+    "Img": "https://khh.travel/image/8454/640x480",
+    "Point": [
+      23.10651,
+      120.70133
+    ]
+  },
+  {
+    "Name": "老樹廣場",
+    "Img": "https://khh.travel/image/8455/640x480",
+    "Point": [
+      23.10701,
+      120.70264
+    ]
+  },
+  {
+    "Name": "雙層巴士",
+    "Img": "https://khh.travel/content/images/Attractions/8470/640x480_double-decker bus4_8868.jpg",
+    "Point": [
+      22.68744,
+      120.3074
+    ]
+  },
+  {
+    "Name": "金鑾宮",
+    "Img": "https://khh.travel/image/8465/640x480",
+    "Point": [
+      22.89509,
+      120.18362
+    ]
+  },
+  {
+    "Name": "茄萣濕地",
+    "Img": "https://khh.travel/image/8466/640x480",
+    "Point": [
+      22.88357,
+      120.20069
+    ]
+  },
+  {
+    "Name": "舊城傳統美食",
+    "Img": "https://khh.travel/image/8467/640x480",
+    "Point": [
+      22.68235,
+      120.29063
+    ]
+  },
+  {
+    "Name": "超峰寺",
+    "Img": "https://khh.travel/image/698/640x480",
+    "Point": [
+      22.85466,
+      120.34265
+    ]
+  },
+  {
+    "Name": "高屏溪斜張橋",
+    "Img": "https://khh.travel/image/668/640x480",
+    "Point": [
+      22.7656,
+      120.45015
+    ]
+  },
+  {
+    "Name": "竹滬明寧靖王廟-華山殿",
+    "Img": "https://khh.travel/image/1378/640x480",
+    "Point": [
+      22.86342,
+      120.2289
+    ]
+  },
+  {
+    "Name": "南海紫竹寺",
+    "Img": "https://khh.travel/image/809/640x480",
+    "Point": [
+      22.94175,
+      120.46137
+    ]
+  },
+  {
+    "Name": "勞工公園",
+    "Img": "https://khh.travel/image/839/640x480",
+    "Point": [
+      22.60726,
+      120.30931
+    ]
+  },
+  {
+    "Name": "二仁溪親水公園",
+    "Img": "https://khh.travel/image/864/640x480",
+    "Point": [
+      22.88629,
+      120.33049
+    ]
+  },
+  {
+    "Name": "中芸漁港",
+    "Img": "https://khh.travel/image/1514/640x480",
+    "Point": [
+      22.48336,
+      120.39905
+    ]
+  },
+  {
+    "Name": "大愛園區",
+    "Img": "https://khh.travel/image/626/640x480",
+    "Point": [
+      22.96549,
+      120.5451
+    ]
+  },
+  {
+    "Name": "香蕉碼頭",
+    "Img": "https://khh.travel/image/136/640x480",
+    "Point": [
+      22.61852,
+      120.27834
+    ]
+  },
+  {
+    "Name": "妙崇寺",
+    "Img": "https://khh.travel/image/1275/640x480",
+    "Point": [
+      23.01074,
+      120.66919
+    ]
+  },
+  {
+    "Name": "彌陀海濱遊樂區",
+    "Img": "https://khh.travel/image/1429/640x480",
+    "Point": [
+      22.78202,
+      120.2253
+    ]
+  },
+  {
+    "Name": "白雲寺",
+    "Img": "https://khh.travel/image/1047/640x480",
+    "Point": [
+      22.90966,
+      120.18306
+    ]
+  },
+  {
+    "Name": "得樂日嘎橋",
+    "Img": "https://khh.travel/image/1637/640x480",
+    "Point": [
+      22.88345,
+      120.65452
+    ]
+  },
+  {
+    "Name": "紅樹林茄苳溪保護區",
+    "Img": "https://khh.travel/image/1058/640x480",
+    "Point": [
+      22.73013,
+      120.27041
+    ]
+  },
+  {
+    "Name": "凝聚的綠寶石-R4高雄國際機場站",
+    "Img": "https://khh.travel/image/149/640x480",
+    "Point": [
+      22.57009,
+      120.34173
+    ]
+  },
+  {
+    "Name": "創藝所在-R7獅甲站",
+    "Img": "https://khh.travel/image/157/640x480",
+    "Point": [
+      22.60605,
+      120.30808
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="utf-8">
+    <title>高雄景點地圖</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+</head>
+
+<body>
+    <div id="map" style="width: 100%; height: 100%; position:absolute;"></div>
+    <script>
+        const map = L.map('map').setView([22.7, 120.3], 16);
+
+        //控制項
+        const layersControl = L.control.layers().addTo(map);
+        L.control.scale().addTo(map);
+
+        //底圖
+        const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+
+        //圖層
+        const tourGroup = L.layerGroup();
+        const a1Group = L.layerGroup();
+        layersControl.addOverlay(tourGroup, '景點');
+        layersControl.addOverlay(a1Group, '2022年A1車禍地點');
+
+        //預先開啟
+        map.addLayer(tourGroup);
+
+        //景點
+        fetch('https://raw.githubusercontent.com/jtj777/KhTourMap/main/高雄景點.json')
+            .then(response => response.json())
+            .then(data => {
+                for (let i = 0; i < data.length; i++) {
+                    const marker = L.marker([data[i].Point[0], data[i].Point[1]]);
+                    marker.bindPopup(
+                        data[i].Name + "<br>"
+                        + "<a href='https://www.google.com/maps/dir/current+location/" + data[i].Point[0] + "," + data[i].Point[1] + "' target='_blank'>導航</a><br>"
+                        + "<img width='200' height='100' src='" + data[i].Img + "'>"
+                    );
+                    tourGroup.addLayer(marker);
+                }
+            });
+
+        //A1車禍
+
+        fetch('https://raw.githubusercontent.com/jtj777/KhTourMap/main/2022_A1車禍.json')
+            .then(response => response.json())
+            .then(data => {
+                for (let i = 0; i < data.length; i++) {
+                    const circle = L.circle([data[i][0], data[i][1]], {
+                        color: 'red',
+                        fillColor: '#f03',
+                        fillOpacity: 0.5,
+                        radius: 50
+                    });
+                    a1Group.addLayer(circle);
+                }
+            });
+    </script>
+</body>
+
+</html>

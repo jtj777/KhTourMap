@@ -10,7 +10,7 @@
 <body>
     <div id="map" style="width: 100%; height: 100%; position:absolute;"></div>
     <script>
-        const map = L.map('map').setView([22.7, 120.3], 16);
+        const map = L.map('map').locate({ setView: true });
 
         //控制項
         const layersControl = L.control.layers().addTo(map);
@@ -22,8 +22,10 @@
         //圖層
         const tourGroup = L.layerGroup();
         const a1Group = L.layerGroup();
+        const cameraGroup = L.layerGroup();
         layersControl.addOverlay(tourGroup, '景點');
         layersControl.addOverlay(a1Group, '2022年A1車禍地點');
+        layersControl.addOverlay(cameraGroup, '2022年科技執法');
 
         //預先開啟
         map.addLayer(tourGroup);
@@ -32,29 +34,48 @@
         fetch('https://raw.githubusercontent.com/jtj777/KhTourMap/main/高雄景點.json')
             .then(response => response.json())
             .then(data => {
-                for (let i = 0; i < data.length; i++) {
-                    const marker = L.marker([data[i].Point[0], data[i].Point[1]]);
+                for (let i of data) {
+                    const marker = L.marker([i.Point[0], i.Point[1]]);
                     marker.bindPopup(
-                        data[i].Name + "<br>"
-                        + "<a href='https://www.google.com/maps/dir/current+location/" + data[i].Point[0] + "," + data[i].Point[1] + "' target='_blank'>導航</a><br>"
-                        + "<img width='200' height='100' src='" + data[i].Img + "'>"
+                        i.Name + "<br>"
+                        + "<a href='https://www.google.com/maps/dir/current+location/" + i.Point[0] + "," + i.Point[1] + "' target='_blank'>導航</a><br>"
+                        + "<img width='200' height='100' src='" + i.Img + "'>"
                     );
                     tourGroup.addLayer(marker);
                 }
             });
 
-        //A1車禍
-        fetch('https://raw.githubusercontent.com/jtj777/KhTourMap/main/2022_A1車禍.json')
+        //A1車禍，串接政府公開資料
+        fetch('https://api.kcg.gov.tw/api/service/get/ad197194-6db9-4f14-ad38-2adceea831c3')
             .then(response => response.json())
             .then(data => {
-                for (let i = 0; i < data.length; i++) {
-                    const circle = L.circle([data[i][0], data[i][1]], {
+                data = data.data;
+                for (let i of data) {
+                    const circle = L.circle([i.x, i.y], {
                         color: 'red',
                         fillColor: '#f03',
                         fillOpacity: 0.5,
                         radius: 50
                     });
+                    circle.bindPopup("發生日期："+i.發生日期+"<br>事故類型及型態：" + i.事故類型及型態說明);
+                    
                     a1Group.addLayer(circle);
+                }
+            });
+
+        //科技執法
+        fetch('https://raw.githubusercontent.com/jtj777/KhTourMap/main/科技執法位置.json')
+            .then(response => response.json())
+            .then(data => {
+                for (let i of data) {
+                    const circle = L.circle([i.緯度, i.經度], {
+                        color: 'blue',
+                        fillColor: '#30f',
+                        fillOpacity: 0.5,
+                        radius: 10
+                    });
+                    circle.bindPopup("取締項目：" + i.取締項目);
+                    cameraGroup.addLayer(circle);
                 }
             });
     </script>
